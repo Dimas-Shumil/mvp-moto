@@ -423,7 +423,7 @@ body.menu-open {
   inset: 92px 0 0;
   opacity: 1;
   pointer-events: none;
-  background: linear-gradient(90deg, rgba(0, 0, 0, 0.88) 0%, rgba(0, 0, 0, 0.18) 42%, rgba(0, 0, 0, 0.62) 100%), linear-gradient(180deg, rgba(0, 0, 0, 0) 55%, rgba(0, 0, 0, 0.92) 100%), url("/site/img/bgr.png") center center/cover no-repeat;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.88) 0%, rgba(0, 0, 0, 0.18) 42%, rgba(0, 0, 0, 0.62) 100%), linear-gradient(180deg, rgba(0, 0, 0, 0) 55%, rgba(0, 0, 0, 0.92) 100%), url("../img/bgr.png") center center/cover no-repeat;
 }
 .motolife-hero__smoke {
   position: absolute;
@@ -1300,7 +1300,7 @@ body.menu-open {
   }
   .motolife-hero__bg {
     inset: 66px 0 0;
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.08) 0%, rgba(0, 0, 0, 0.42) 46%, rgba(0, 0, 0, 0.96) 100%), url("/site/img/bgr.png") center top/cover no-repeat;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.08) 0%, rgba(0, 0, 0, 0.42) 46%, rgba(0, 0, 0, 0.96) 100%), url("../img/bgr.png") center top/cover no-repeat;
   }
   .motolife-hero__smoke {
     width: 90vw;

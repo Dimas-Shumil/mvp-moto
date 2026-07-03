@@ -554,7 +554,7 @@ body.menu-open {
         rgba(0, 0, 0, 0) 55%,
         rgba(0, 0, 0, 0.92) 100%
       ),
-      url("/site/img/bgr.png") center center / cover no-repeat;
+      url("../img/bgr.png") center center / cover no-repeat;
   }
 
   &__smoke {
@@ -1741,7 +1741,7 @@ body.menu-open {
           rgba(0, 0, 0, 0.42) 46%,
           rgba(0, 0, 0, 0.96) 100%
         ),
-        url("/site/img/bgr.png") center top / cover no-repeat;
+        url("../img/bgr.png") center top / cover no-repeat;
     }
 
     &__smoke {
