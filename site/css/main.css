@@ -313,7 +313,7 @@ body.menu-open {
   border-bottom: 1px solid rgba(255, 255, 255, 0.09);
   color: #ffffff;
   font-family: "Russo One", "Montserrat", Arial, sans-serif;
-  font-size: clamp(28px, 7vw, 46px);
+  font-size: 18px;
   line-height: 1;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -1141,14 +1141,14 @@ body.menu-open {
   }
   .motolife-header .motolife-menu__nav a {
     min-height: 64px;
-    font-size: clamp(26px, 9vw, 40px);
+    font-size: 18px;
   }
   .motolife-hero {
     padding-bottom: 34px;
   }
   .motolife-hero__bg {
     inset: 72px 0 0;
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.12) 0%, rgba(0, 0, 0, 0.18) 42%, rgba(0, 0, 0, 0.94) 100%), linear-gradient(90deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.06) 50%, rgba(0, 0, 0, 0.7) 100%), url("/site/img/bgr.png") center top/cover no-repeat;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.12) 0%, rgba(0, 0, 0, 0.18) 42%, rgba(0, 0, 0, 0.94) 100%), linear-gradient(90deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.06) 50%, rgba(0, 0, 0, 0.7) 100%), url("../img/bgr.png") center top/cover no-repeat;
   }
   .motolife-hero__inner {
     width: calc(100% - 32px);

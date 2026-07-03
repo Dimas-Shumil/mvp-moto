@@ -402,7 +402,7 @@ body.menu-open {
     border-bottom: 1px solid rgba(255, 255, 255, 0.09);
     color: $white;
     font-family: $font-accent;
-    font-size: clamp(28px, 7vw, 46px);
+    font-size: 18px;
     line-height: 1;
     letter-spacing: 0.04em;
     text-transform: uppercase;
@@ -1515,7 +1515,7 @@ body.menu-open {
 
     &__nav a {
       min-height: 64px;
-      font-size: clamp(26px, 9vw, 40px);
+      font-size: 18px;
     }
   }
   }
@@ -1538,7 +1538,7 @@ body.menu-open {
           rgba(0, 0, 0, 0.06) 50%,
           rgba(0, 0, 0, 0.7) 100%
         ),
-        url("/site/img/bgr.png") center top / cover no-repeat;
+        url("../img/bgr.png") center top / cover no-repeat;
     }
 
     &__inner {
